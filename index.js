@@ -19,7 +19,7 @@ app.set('views', path.join(__dirname, 'views'));
 const config = {
     user: 'azureuser',
     password: 'P@ssw0rd',
-    server: 'lab34.database.windows.',
+    server: 'lab34.database.windows.net',
     database: 'c0938292',
     options: {
         encrypt: true,
